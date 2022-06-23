@@ -13,14 +13,13 @@
     "vuepress": "^2.0.0-beta.46"
   },
   "dependencies": {
+    "@vue/component-compiler-utils": "^3.3.0",
     "@vuepress/bundler-vite": "^2.0.0-beta.46",
     "@vuepress/bundler-webpack": "^2.0.0-beta.45",
     "@vuepress/cli": "^2.0.0-beta.46",
     "@vuepress/plugin-register-components": "^1.9.7",
     "@vuepress/utils": "^2.0.0-beta.46",
-    "bootstrap": "^5.1.3",
-    "bootstrap-vue": "^2.22.0",
     "sass-loader": "^13.0.0",
-    "vue": "^3.2.36"
+    "vue": "^3.2.37"
   }
 }

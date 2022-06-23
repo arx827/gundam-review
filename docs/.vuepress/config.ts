@@ -4,7 +4,7 @@ import { defaultTheme, defineUserConfig } from 'vuepress';
 import { head, navbar, sidebar } from './configs';
 
 export default defineUserConfig({
-  base: '/gundam/',
+  base: '/gundam-review/',
   lang: 'zh-TW',
   title: '鋼彈年代史',
   description: '鋼彈時間軸',
