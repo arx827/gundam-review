@@ -4,11 +4,27 @@ import { version } from './meta'
 export const navbar: NavbarConfig = [
   {
     text: '宇宙世紀',
-    link: '/uc/uc0068',
+    link: '/uc/',
+    children: [
+      {
+        text: 'UC0068 - 機動戰士鋼彈-起源',
+        link: '/uc/uc0068',
+      },
+      {
+        text: 'UC0079 - 機動戰士鋼彈',
+        link: '/uc/uc0079',
+      }
+    ]
   },
   // {
   //   text: '未來世紀',
   //   link: '/fc/',
+  //   children: [
+  //     {
+  //       text: '機動武鬥傳G鋼彈',
+  //       link: '/fc/fc0060',
+  //     }
+  //   ]
   // },
   // {
   //   text: '後殖民紀元',
@@ -39,25 +55,29 @@ export const navbar: NavbarConfig = [
   //   link: '/rc/',
   // },
   // {
-  //   text: 'Post Disaster',
+  //   text: '災難戰後',
   //   link: '/pd/',
   // },
-  // {
-  //   text: '非主流番外篇',
-  //   link: '/fzl/',
-  //   children: [
-  //     {
-  //       text: 'SD高達三國傳',
-  //       link: '',
-  //     },
-  //     {
-  //       text: '機動戰士鋼彈桑',
-  //       link: '',
-  //     },
-  //     {
-  //       text: '高達創戰者',
-  //       link: '',
-  //     },
-  //   ]
-  // },
+  {
+    text: '非主流番外篇',
+    link: '/non-mainstream/',
+    children: [
+      // {
+      //   text: 'SD鋼彈',
+      //   link: '',
+      // },
+      // {
+      //   text: '機動戰士 - 鋼彈桑',
+      //   link: '',
+      // },
+      // {
+      //   text: '高達創戰者',
+      //   link: '',
+      // },
+      {
+        text: '水星的魔女',
+        link: '/non-mainstream/witch',
+      },
+    ]
+  },
 ]
