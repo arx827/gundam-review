@@ -6,7 +6,7 @@ set -e
 # 生成靜態文件
 npm run docs:build
 
-# 進入生成的文件夾
+# 進入生成的資料夾
 cd docs/.vuepress/dist
 
 git init
