@@ -42,9 +42,7 @@ jobs:
         run: |
           cd docs/.vuepress/dist
           git init
-          git config user.name "arx827"
-          git config user.email "${{ secrets.GIT_EMAIL }}"
           git add -A
           git commit -m 'deploy'
-          git push -f https://arx827:${{ secrets.ACCESS_TOKEN }}@github.com/arx827/gundam-review.git master:gh-pages
+          git push -f https://github.com/arx827/gundam-review.git master:gh-pages
           cd -
