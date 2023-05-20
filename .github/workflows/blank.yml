@@ -42,7 +42,7 @@ jobs:
         run: |
           cd docs/.vuepress/dist
           git init
-          git config user.name "Eason"
+          git config user.name "arx827"
           git config user.email "${{ secrets.GIT_EMAIL }}"
           git add -A
           git commit -m 'deploy'
