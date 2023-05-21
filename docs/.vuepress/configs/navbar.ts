@@ -3,6 +3,15 @@ import { version } from './meta'
 
 export const navbar: NavbarConfig = [
   {
+    text: '出場機體總覽',
+    children: [
+      {
+        text: '宇宙世紀',
+        link: '/mechanical/uc/uc0068'
+      },
+    ]
+  },
+  {
     text: '宇宙世紀',
     link: '/uc/',
     children: [
@@ -12,7 +21,15 @@ export const navbar: NavbarConfig = [
       },
       {
         text: 'UC0079 - 機動戰士鋼彈',
-        link: '/uc/uc0079',
+        link: '/uc/uc0079-tv',
+      },
+      {
+        text: 'UC0079 - 機動戰士鋼彈 - MS IGLOO 系列三部曲',
+        link: '/uc/uc0079-ms-igloo',
+      },
+      {
+        text: 'UC0079 - 第08MS小隊',
+        link: '/uc/uc0079-08ms',
       }
     ]
   },

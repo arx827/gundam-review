@@ -13,14 +13,9 @@ export const sidebar: SidebarConfig = {
       text: 'UC0079 - 機動戰士',
       collapsible: true,
       children: [
-        '/uc/uc0079',
-      ],
-    },
-    {
-      text: 'UC0079 - 第08MS小隊',
-      collapsible: true,
-      children: [
-        '/uc/uc0079-ms.md',
+        '/uc/uc0079-tv',
+        '/uc/uc0079-ms-igloo',
+        '/uc/uc0079-08ms',
       ],
     },
     {
@@ -188,6 +183,15 @@ export const sidebar: SidebarConfig = {
     //   ],
     // },
   ],
+  '/mechanical/uc/': [
+    {
+      text: '宇宙世紀',
+      children: [
+        '/mechanical/uc/uc0068',
+        '/mechanical/uc/uc0079',
+      ],
+    }
+  ]
   // '/advanced/': [
   //   {
   //     text: '深入',
