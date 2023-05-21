@@ -185,10 +185,18 @@ export const sidebar: SidebarConfig = {
   ],
   '/mechanical/uc/': [
     {
-      text: '宇宙世紀',
+      text: 'UC0068 - 機體介紹',
+      collapsible: true,
       children: [
         '/mechanical/uc/uc0068',
-        '/mechanical/uc/uc0079',
+      ],
+    },
+    {
+      text: 'UC0079 - 機體介紹',
+      collapsible: true,
+      children: [
+        '/mechanical/uc/uc0079-tv',
+        '/mechanical/uc/uc0079-08ms',
       ],
     }
   ]
