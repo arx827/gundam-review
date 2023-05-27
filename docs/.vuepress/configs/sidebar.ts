@@ -3,34 +3,35 @@ import type { SidebarConfig } from '@vuepress/theme-default'
 export const sidebar: SidebarConfig = {
   '/uc/': [
     {
-      text: 'UC0068 - 機動戰士-起源',
+      text: 'UC0068',
       collapsible: true,
       children: [
-        '/uc/uc0068',
+        '/uc/uc0068/uc0068-origin',
       ],
     },
     {
-      text: 'UC0079 - 機動戰士',
+      text: 'UC0079',
       collapsible: true,
       children: [
-        '/uc/uc0079-tv',
-        '/uc/uc0079-ms-igloo',
-        '/uc/uc0079-08ms',
+        '/uc/uc0079/uc0079-tv',
+        '/uc/uc0079/uc0079-ms-igloo',
+        '/uc/uc0079/uc0079-thunderbolt',
+        '/uc/uc0079/uc0079-08ms',
       ],
     },
     {
-      text: 'UC0080 - 口袋裡的戰爭',
-      // collapsible: true,
-      // children: [
-      //   '/uc/uc0079-ms.md',
-      // ],
+      text: 'UC0080',
+      collapsible: true,
+      children: [
+        '/uc/uc0080/uc0080-pocket.md',
+      ],
     },
     {
       text: 'UC0083 - 星塵回憶錄',
-      // collapsible: true,
-      // children: [
-      //   '/uc/uc0079-ms.md',
-      // ],
+      collapsible: true,
+      children: [
+        '/uc/uc0083/uc0083-stardustMemory',
+      ],
     },
     {
       text: 'UC0083 - 吉翁的殘光',

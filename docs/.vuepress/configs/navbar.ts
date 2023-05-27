@@ -3,34 +3,56 @@ import { version } from './meta'
 
 export const navbar: NavbarConfig = [
   {
-    text: '出場機體總覽',
-    children: [
-      {
-        text: '宇宙世紀',
-        link: '/mechanical/uc/uc0068'
-      },
-    ]
-  },
-  {
     text: '宇宙世紀',
-    link: '/uc/',
     children: [
       {
-        text: 'UC0068 - 機動戰士鋼彈-起源',
-        link: '/uc/uc0068',
+        text: 'UC0068',
+        children: [
+          {
+            text: '機動戰士鋼彈-起源',
+            link: '/uc/uc0068/uc0068-origin'
+          }
+        ]
       },
       {
-        text: 'UC0079 - 機動戰士鋼彈',
-        link: '/uc/uc0079-tv',
+        text: 'UC0079',
+        children: [
+          {
+            text: '機動戰士鋼彈',
+            link: '/uc/uc0079/uc0079-tv'
+          },
+          {
+            text: '機動戰士鋼彈 - MS IGLOO 系列三部曲',
+            link: '/uc/uc0079/uc0079-ms-igloo'
+          },
+          {
+            text: '機動戰士鋼彈 - 雷霆宙域',
+            link: '/uc/uc0079/uc0079-thunderbolt',
+          },
+          {
+            text: '第08MS小隊',
+            link: '/uc/uc0079/uc0079-08ms',
+          },
+        ]
       },
       {
-        text: 'UC0079 - 機動戰士鋼彈 - MS IGLOO 系列三部曲',
-        link: '/uc/uc0079-ms-igloo',
+        text: 'UC0080',
+        children: [
+          {
+            text: '口袋裡的戰爭',
+            link: '/uc/uc0080/uc0080-pocket'
+          },
+        ]
       },
       {
-        text: 'UC0079 - 第08MS小隊',
-        link: '/uc/uc0079-08ms',
-      }
+        text: 'UC0083',
+        children: [
+          {
+            text: '星塵的回憶',
+            link: '/uc/uc0083/uc0083-stardustMemory'
+          },
+        ]
+      },
     ]
   },
   // {
@@ -94,6 +116,15 @@ export const navbar: NavbarConfig = [
       {
         text: '水星的魔女',
         link: '/non-mainstream/witch',
+      },
+    ]
+  },
+  {
+    text: '出場機體總覽',
+    children: [
+      {
+        text: '宇宙世紀',
+        link: '/mechanical/uc/uc0068'
       },
     ]
   },
