@@ -109,10 +109,10 @@ export const navbar: NavbarConfig = [
       //   text: '機動戰士 - 鋼彈桑',
       //   link: '',
       // },
-      // {
-      //   text: '高達創戰者',
-      //   link: '',
-      // },
+      {
+        text: '高達創戰者',
+        link: '/non-mainstream/buildFighters',
+      },
       {
         text: '水星的魔女',
         link: '/non-mainstream/witch',
@@ -124,8 +124,34 @@ export const navbar: NavbarConfig = [
     children: [
       {
         text: '宇宙世紀',
-        link: '/mechanical/uc/uc0068'
+        children: [
+          {
+            text: 'UC0068',
+            link: '/mechanical/uc/uc0068/uc0068-origin'
+          },
+          {
+            text: 'UC0079',
+            link: '/mechanical/uc/uc0079/uc0079-tv'
+          },
+          {
+            text: 'UC0080',
+            link: '/mechanical/uc/uc0080/uc0080-pocket'
+          },
+          {
+            text: 'UC0083',
+            link: '/mechanical/uc/uc0083/uc0083-stardustMemory'
+          },
+        ]
       },
     ]
   },
+  {
+    text: '模型',
+    children: [
+      {
+        text: 'RG',
+        link: '/assemblyModel/rg'
+      }
+    ]
+  }
 ]
