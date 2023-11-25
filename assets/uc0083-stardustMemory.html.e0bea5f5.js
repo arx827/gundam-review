@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-9c2be048","path":"/mechanical/uc/uc0083/uc0083-stardustMemory.html","title":"","lang":"zh-TW","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1685636005000,"contributors":[{"name":"arx827","email":"arx827@gmail.com","commits":1}]},"filePathRelative":"mechanical/uc/uc0083/uc0083-stardustMemory.md"}');export{t as data};
