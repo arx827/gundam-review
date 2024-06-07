@@ -218,4 +218,13 @@ export const sidebar: SidebarConfig = {
       ],
     },
   ],
+  '/assemblyModel': [
+    {
+      text: 'RG',
+      collapsible: true,
+      children: [
+        '/assemblyModel/rg'
+      ]
+    }
+  ]
 }

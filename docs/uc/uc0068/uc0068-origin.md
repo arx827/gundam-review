@@ -7,9 +7,9 @@
   - ## [OVA] 機動戰士高達 I : 蒼瞳的卡斯巴爾
     宇宙世紀（U.C.）0068年，慕佐自治共和國的吉翁‧茲姆‧戴昆在發表獨立演講時猝死於眾人面前，引發風潮。受困於此的戴昆家兄妹在經歷一系列變故後自宇宙都市逃往地球。
 
-    [傳送門](https://www.777tv.tv/play/163073-1-1.html)
+    [傳送門](https://www.777tv.tv/video/3i8m8u58.html)
       
-    ![蒼瞳的卡斯巴爾](/images/uc/uc0068/UC0068-origin/UC0068-origin-1.jpeg)
+    ![蒼瞳的卡斯巴爾](/images/uc/uc0068/uc0068-origin/uc0068-origin-1.jpeg)
 
   ---
 
@@ -18,7 +18,7 @@
 
     [傳送門](https://www.777tv.tv/play/160874-2-1.html)
 
-    ![悲哀的阿爾黛西亞](/images/uc/uc0068/UC0068-origin/UC0068-origin-2.jpeg)
+    ![悲哀的阿爾黛西亞](/images/uc/uc0068/uc0068-origin/uc0068-origin-2.jpeg)
 
   ---
 
@@ -27,7 +27,7 @@
 
     [傳送門](https://www.777tv.tv/play/199832-1-1.html)
 
-    ![破曉起義](/images/uc/uc0068/UC0068-origin/UC0068-origin-3.jpeg)
+    ![破曉起義](/images/uc/uc0068/uc0068-origin/uc0068-origin-3.jpeg)
 
   ---
 
@@ -38,7 +38,7 @@
 
     [傳送門](https://www.777tv.tv/play/199886-1-1.html)
 
-    ![命運的前夜](/images/uc/uc0068/UC0068-origin/UC0068-origin-4.png)
+    ![命運的前夜](/images/uc/uc0068/uc0068-origin/uc0068-origin-4.png)
 
   ---
 
@@ -49,7 +49,7 @@
 
     [傳送門](https://www.777tv.tv/play/131303-2-1.html)
 
-    ![激戰 魯姆會戰](/images/uc/uc0068/UC0068-origin/UC0068-origin-5.png)
+    ![激戰 魯姆會戰](/images/uc/uc0068/uc0068-origin/uc0068-origin-5.png)
 
   ---
 
@@ -60,4 +60,4 @@
 
     [傳送門](https://www.777tv.tv/play/163944-1-1.html)
 
-    ![紅色彗星的誕生](/images/uc/uc0068/UC0068-origin/UC0068-origin-6.jpeg)
+    ![紅色彗星的誕生](/images/uc/uc0068/uc0068-origin/uc0068-origin-6.jpeg)

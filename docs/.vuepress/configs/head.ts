@@ -1,15 +1,15 @@
 import type { HeadConfig } from '@vuepress/core'
 
 export const head: HeadConfig[] = [
-  ['link', { rel: 'apple-touch-icon', sizes: "180x180", href: '/images/icons/apple-touch-icon.png' }],
-  ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/images/icons/favicon-16x16.png' }],
-  ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/images/icons/favicon-32x32.png' }],
-  ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
+  ['link', { rel: 'apple-touch-icon', sizes: "180x180", href: '/gundam-review/images/icons/apple-touch-icon.png' }],
+  ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/gundam-review/images/icons/favicon-16x16.png' }],
+  ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/gundam-review/images/icons/favicon-32x32.png' }],
+  ['link', { rel: 'manifest', href: '/gundam-review/manifest.webmanifest' }],
   ['meta', { name: 'application-name', content: 'VuePress' }],
   ['meta', { name: 'apple-mobile-web-app-title', content: 'VuePress' }],
   ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-  ['link', { rel: 'shortcut icon', href: '/images/favicon.ico' }],
-  ['link', { rel: 'mask-icon', href: '/images/icons/safari-pinned-tab.svg', color: '#3eaf7c'}],
+  ['link', { rel: 'shortcut icon', href: '/gundam-review/images/favicon.ico' }],
+  ['link', { rel: 'mask-icon', href: '/gundam-review/images/icons/safari-pinned-tab.svg', color: '#3eaf7c'}],
   ['meta', { name: 'msapplication-TileColor', content: '#3eaf7c' }],
   ['meta', { name: 'theme-color', content: '#3eaf7c' }],
 ]

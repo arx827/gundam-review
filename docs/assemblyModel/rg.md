@@ -69,19 +69,89 @@
   - FX550 Sky Grasper
   - CE0071 - 機動戰士鋼彈 SEED
   - 國際條碼：4543112753069
-  - 約 $ 600
+  - 約 $ 650
 
-    ![ZGMF-X10A-1](/images/assemblyModel/rg/RG-06-1.jpg)
+    ![FX550-1](/images/assemblyModel/rg/RG-06-1.jpg)
 
     ::: details pose
-    ![ZGMF-X10A-2](/images/assemblyModel/rg/RG-06-2.jpg)
-    ![ZGMF-X10A-3](/images/assemblyModel/rg/RG-06-3.jpg)
+    ![FX550-2](/images/assemblyModel/rg/RG-06-2.jpg)
+    ![FX550-3](/images/assemblyModel/rg/RG-06-3.jpg)
     :::
 
 ## [RG-07] RX-178 鋼彈 Mk-II 迪坦斯仕樣
+  - Mk-II TITANS
+  - UC0087 - 機動戰士Z鋼彈
+  - 國際條碼：4543112757166
+  - 約 $ 630
 
-## [RG-08] RX-178 鋼彈 Mk-II 幽谷仕樣
+    ![TITANS-1](/images/assemblyModel/rg/RG-07-1.jpg)
+
+    ::: details pose
+    ![TITANS-2](/images/assemblyModel/rg/RG-07-2.jpg)
+    ![TITANS-3](/images/assemblyModel/rg/RG-07-3.jpg)
+    :::
+
+## *[RG-08] RX-178 鋼彈 Mk-II 幽谷仕樣
+  - Mk-II AEUG
+  - UC0087 - 機動戰士Z鋼彈
+  - 國際條碼：4573102615985
+  - 約 $ 600
+
+    ![AEUG-1](/images/assemblyModel/rg/RG-08-1.jpg)
+
+    ::: details pose
+    ![AEUG-2](/images/assemblyModel/rg/RG-08-2.jpg)
+    ![AEUG-3](/images/assemblyModel/rg/RG-08-3.jpg)
+    :::
 
 ## [RG-09] ZGMF-X09A Justice Gundam 正義鋼彈
+  - ZGMF-X09A Justice
+  - CE0071 - 機動戰士鋼彈 SEED
+  - 國際條碼：4543112765123
+  - 約 $ 600
+
+    ![ZGMF-X10A-1](/images/assemblyModel/rg/RG-09-1.jpeg)
+
+    ::: details pose
+    ![ZGMF-X10A-2](/images/assemblyModel/rg/RG-09-2.jpg)
+    ![ZGMF-X10A-3](/images/assemblyModel/rg/RG-09-3.jpg)
+    :::
 
 ## [RG-10] MSN-006 Zeta Gundam Z鋼彈
+  - ZETA NSZ-006
+  - UC0087 - 機動戰士Z鋼彈
+  - 國際條碼：4543112785398
+  - 約 $ 700
+
+    ![NSZ-006-1](/images/assemblyModel/rg/RG-10-1.jpg)
+
+    ::: details pose
+    ![NSZ-006-2](/images/assemblyModel/rg/RG-10-2.jpg)
+    ![NSZ-006-3](/images/assemblyModel/rg/RG-10-3.jpg)
+    :::
+
+## [RG-11] ZGMF-X42S DESTINY 命運鋼彈
+  - ZGMF-X42S DESTINY
+  - CE0073 - 機動戰士鋼彈 SEED STARGAZER
+  - 國際條碼：4543112815958
+  - 約 $ 600
+
+    ![ZGMF-X42S-1](/images/assemblyModel/rg/RG-11-1.jpg)
+
+    ::: details pose
+    ![ZGMF-X42S-2](/images/assemblyModel/rg/RG-11-2.jpg)
+    ![ZGMF-X42S-3](/images/assemblyModel/rg/RG-11-3.jpg)
+    :::
+
+## [RG-12] RX-78-FB GP01 傑菲蘭沙斯
+  - RX-78-FB GP01 Zephyranthes
+  - UC0083 星塵的回憶
+  - 國際條碼：4543112826541
+  - 約 $ 600
+
+    ![RX-78-FB-1](/images/assemblyModel/rg/RG-12-1.jpg)
+
+    ::: details pose
+    ![RX-78-FB-2](/images/assemblyModel/rg/RG-12-2.jpg)
+    ![RX-78-FB-3](/images/assemblyModel/rg/RG-12-3.jpg)
+    :::
