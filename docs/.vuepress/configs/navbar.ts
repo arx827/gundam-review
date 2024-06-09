@@ -57,45 +57,178 @@ export const navbar: NavbarConfig = [
   },
   // {
   //   text: '未來世紀',
-  //   link: '/fc/',
   //   children: [
   //     {
-  //       text: '機動武鬥傳G鋼彈',
-  //       link: '/fc/fc0060',
+  //       text: 'FC0060',
+  //       children: [
+  //         {
+  //           text: '機動武鬥傳G鋼彈',
+  //           link: '/fc/fc0060/fc0060-fighter-g'
+  //         }
+  //       ]
   //     }
   //   ]
   // },
   // {
   //   text: '後殖民紀元',
-  //   link: '/ac/',
+  //   children: [
+  //     {
+  //       text: 'AC0195',
+  //       children: [
+  //         {
+  //           text: '新機動戰記鋼彈W',
+  //           link: '/ac/ac0195/ac0195-report-w'
+  //         },
+  //         {
+  //           text: '新機動戰記鋼彈W - 無盡的華爾茲',
+  //           link: '/ac/ac0195/ac0196-waltz'
+  //         }
+  //       ]
+  //     }
+  //   ]
   // },
   // {
   //   text: '戰後紀元',
-  //   link: '/aw/',
+  //   children: [
+  //     {
+  //       text: 'AW0015',
+  //       children: [
+  //         {
+  //           text: '機動新世紀鋼彈X',
+  //           link: '/aw/aw0015/aw0015-x'
+  //         },
+  //       ]
+  //     },
+  //     {
+  //       text: 'AW0024',
+  //       children: [
+  //         {
+  //           text: '機動新世紀鋼彈 X UNDER THE MOONLIGHT',
+  //           link: '/aw/aw0024/aw0024-moonlight'
+  //         }
+  //       ]
+  //     }
+  //   ]
   // },
   // {
   //   text: '正曆',
-  //   link: '/cc/',
+  //   children: [
+  //     {
+  //       text: 'CC2345',
+  //       children: [
+  //         {
+  //           text: '逆A鋼彈',
+  //           link: '/cc/cc2345/cc2345-∀'
+  //         },
+  //       ]
+  //     },
+  //   ]
   // },
   // {
   //   text: '宇宙紀元',
-  //   link: '/ce/',
+  //   children: [
+  //     {
+  //       text: 'CE0071',
+  //       children: [
+  //         {
+  //           text: '機動戰士鋼彈SEED',
+  //           link: '/ce/ce0071/ce0071-seed'
+  //         },
+  //       ]
+  //     },
+  //     {
+  //       text: 'CE0073',
+  //       children: [
+  //         {
+  //           text: '機動戰士鋼彈SEED DESTINY',
+  //           link: '/ce/ce0073/ce0073-seed-destiny'
+  //         },
+  //         {
+  //           text: '機動戰士鋼彈SEED C.E.73 STARGAZER',
+  //           link: '/ce/ce0073/ce0073-seed-stargazer'
+  //         },
+  //       ]
+  //     },
+  //     {
+  //       text: 'CE0075',
+  //       children: [
+  //         {
+  //           text: '機動戰士鋼彈SEED FREEDOM',
+  //           link: '/ce/ce0075/ce0075-seed-freedom'
+  //         },
+  //       ]
+  //     },
+  //   ]
   // },
   // {
   //   text: '西曆紀元',
-  //   link: '/ad/',
+  //   children: [
+  //     {
+  //       text: 'AD2307',
+  //       children: [
+  //         {
+  //           text: '機動戰士鋼彈00',
+  //           link: '/ad/ad2307/ad2307-00'
+  //         },
+  //       ]
+  //     },
+  //   ]
   // },
   // {
   //   text: '新進紀元',
-  //   link: '/ag/',
+  //   children: [
+  //     {
+  //       text: 'AG101',
+  //       children: [
+  //         {
+  //           text: '機動戰士鋼彈AGE',
+  //           link: '/ag/ag101/ad101-age'
+  //         },
+  //       ]
+  //     },
+  //   ]
   // },
   // {
   //   text: '復興世紀',
-  //   link: '/rc/',
+  //   children: [
+  //     {
+  //       text: 'RC1014',
+  //       children: [
+  //         {
+  //           text: '鋼彈G之復國運動',
+  //           link: '/rc/rc1014/rc1014-g'
+  //         },
+  //       ]
+  //     },
+  //   ]
   // },
   // {
   //   text: '災難戰後',
-  //   link: '/pd/',
+  //   children: [
+  //     {
+  //       text: 'PD323',
+  //       children: [
+  //         {
+  //           text: '機動戰士鋼彈 鐵血孤兒',
+  //           link: '/pd/pd323/pd323-iron-blooded'
+  //         },
+  //       ]
+  //     },
+  //   ]
+  // },
+  // {
+  //   text: '星元',
+  //   children: [
+  //     {
+  //       text: 'AS122',
+  //       children: [
+  //         {
+  //           text: '水星的魔女',
+  //           link: '/as/as122/as122-witch'
+  //         },
+  //       ]
+  //     },
+  //   ]
   // },
   {
     text: '非主流番外篇',
@@ -110,7 +243,7 @@ export const navbar: NavbarConfig = [
       //   link: '',
       // },
       {
-        text: '高達創戰者',
+        text: '鋼彈創戰者',
         link: '/non-mainstream/buildFighters',
       },
       {
