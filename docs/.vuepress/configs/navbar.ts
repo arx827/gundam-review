@@ -149,8 +149,33 @@ export const navbar: NavbarConfig = [
     text: '模型',
     children: [
       {
-        text: 'RG',
-        link: '/assemblyModel/rg'
+        text: 'RG - GUNDAM - 1/144',
+        children: [
+          {
+            text: 'RG-01 ~ RG-09',
+            link: '/assemblyModel/RG/rg-0'
+          },
+          {
+            text: 'RG-10 ~ RG-19',
+            link: '/assemblyModel/RG/rg-1'
+          },
+          {
+            text: 'RG-20 ~ RG-29',
+            link: '/assemblyModel/RG/rg-2'
+          },
+          {
+            text: 'RG-30 ~ RG-39',
+            link: '/assemblyModel/RG/rg-3'
+          },
+          {
+            text: 'RG-40 ~ RG-49',
+            link: '/assemblyModel/RG/rg-4'
+          },
+        ]
+      },
+      {
+        text: 'SD - GUNDAM',
+        link: '/assemblyModel/sd'
       }
     ]
   }

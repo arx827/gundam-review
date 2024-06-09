@@ -218,13 +218,26 @@ export const sidebar: SidebarConfig = {
       ],
     },
   ],
-  '/assemblyModel': [
+  '/assemblyModel/sd': [
     {
-      text: 'RG',
+      text: 'SD - GUNDAM',
       collapsible: true,
       children: [
-        '/assemblyModel/rg'
+        '/assemblyModel/sd'
       ]
-    }
+    },
+  ],
+  '/assemblyModel/RG': [
+    {
+      text: 'RG - GUNDAM - 1/144',
+      collapsible: true,
+      children: [
+        '/assemblyModel/RG/rg-0',
+        '/assemblyModel/RG/rg-1',
+        '/assemblyModel/RG/rg-2',
+        '/assemblyModel/RG/rg-3',
+        '/assemblyModel/RG/rg-4',
+      ]
+    },
   ]
 }
