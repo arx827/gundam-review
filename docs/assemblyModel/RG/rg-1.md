@@ -1,4 +1,4 @@
-# RG-11 ~ RG-20
+# RG-10 ~ RG-19
 
 ## [RG-10] MSN-006 Zeta Gundam Z鋼彈
   - ZETA NSZ-006

@@ -306,10 +306,10 @@ export const navbar: NavbarConfig = [
           },
         ]
       },
-      {
-        text: 'SD - GUNDAM',
-        link: '/assemblyModel/sd'
-      }
+      // {
+      //   text: 'SD - GUNDAM',
+      //   link: '/assemblyModel/sd'
+      // }
     ]
   }
 ]
