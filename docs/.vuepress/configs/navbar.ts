@@ -311,5 +311,14 @@ export const navbar: NavbarConfig = [
       //   link: '/assemblyModel/sd'
       // }
     ]
+  },
+  {
+    text: '顏料',
+    children: [
+      {
+        text: '水性漆',
+        link: '/paint/water-based'
+      }
+    ]
   }
 ]
