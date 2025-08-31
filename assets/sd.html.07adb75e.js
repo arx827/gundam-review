@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d2baf2ba","path":"/assemblyModel/sd.html","title":"*[SD-001] RX-78-2 GUNDAM \u521D\u4EE3\u92FC\u5F48","lang":"zh-TW","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1756668108000,"contributors":[{"name":"Eason Chen","email":"arx827@gmail.com","commits":1}]},"filePathRelative":"assemblyModel/sd.md"}');export{e as data};
